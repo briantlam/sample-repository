@@ -2,4 +2,4 @@ This is a new file.
 aaa
 bbb
 fix
-making a change here
+made a change
